@@ -1,3 +1,19 @@
+<!-- PROFILE_TOP_V2 -->
+
+<div align="center">
+
+# Rafael Rodrigues
+
+### Backend Lab Portfolio
+
+Python • FastAPI • Docker • PostgreSQL • API Security • Observability
+
+Last updated: 2026-05-21 16:05
+
+</div>
+
+---
+
 <p align="center">
   <img src="./assets/profile-banner.svg" alt="Rafael Rodrigues Backend Developer Banner" width="100%" />
 </p>
