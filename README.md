@@ -52,7 +52,7 @@ Professional backend laboratory project built with FastAPI, PostgreSQL, Docker, 
 - Document decisions and operational steps
 - Treat security and auditability as part of backend design
 
-## Repository Map
+## Public Portfolio
 
 | Repository | Purpose |
 |---|---|
