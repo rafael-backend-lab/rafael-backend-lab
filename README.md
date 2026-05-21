@@ -4,26 +4,27 @@
 
 # Rafael Rodrigues
 
-Backend developer focused on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **API Security** and **Observability**.
+**Backend Developer** focused on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **API Security** and **Observability**.
 
-I build backend laboratories and portfolio projects with emphasis on clean architecture, reproducible local environments, authentication flows, auditability and operational validation.
+I build backend projects with emphasis on clean architecture, reproducible local environments, authentication flows, auditability and operational validation.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Backend-blue" />
   <img src="https://img.shields.io/badge/FastAPI-API-009688" />
   <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
   <img src="https://img.shields.io/badge/PostgreSQL-Database-336791" />
-  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Audit-red" />
+  <img src="https://img.shields.io/badge/API%20Security-JWT%20%7C%20Audit-red" />
+  <img src="https://img.shields.io/badge/Observability-Health%20Checks-purple" />
 </p>
 
-## Current Focus
+## Main Focus
 
 - Backend API development with FastAPI
 - Docker based development environments
 - PostgreSQL and SQLAlchemy
 - JWT authentication and protected routes
 - Audit logging and security minded development
-- Observability, health checks and operational validation
+- Health checks and operational validation
 - Clean documentation for reproducible projects
 
 ## Featured Project
