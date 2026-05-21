@@ -1,8 +1,20 @@
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Rafael Rodrigues Backend Developer Banner" width="100%" />
+</p>
+
 # Rafael Rodrigues
 
-Backend developer focused on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **API security** and practical operational validation.
+Backend developer focused on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **API Security** and **Observability**.
 
-I build backend laboratories and portfolio projects with emphasis on clean architecture, reproducible local environments, authentication flows, auditability and clear technical documentation.
+I build backend laboratories and portfolio projects with emphasis on clean architecture, reproducible local environments, authentication flows, auditability and operational validation.
+
+<p>
+  <img src="https://img.shields.io/badge/Python-Backend-blue" />
+  <img src="https://img.shields.io/badge/FastAPI-API-009688" />
+  <img src="https://img.shields.io/badge/Docker-Containers-2496ED" />
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-336791" />
+  <img src="https://img.shields.io/badge/Security-JWT%20%7C%20Audit-red" />
+</p>
 
 ## Current Focus
 
@@ -16,13 +28,9 @@ I build backend laboratories and portfolio projects with emphasis on clean archi
 
 ## Featured Project
 
-### FastAPI Platform Lab
+### [FastAPI Platform Lab](https://github.com/rafael-backend-lab/fastapi-platform-lab)
 
 Professional backend laboratory project built with FastAPI, PostgreSQL, Docker, JWT authentication, admin routes, notes management, audit logging and automated health tests.
-
-Repository:
-
-[fastapi-platform-lab](https://github.com/rafael-backend-lab/fastapi-platform-lab)
 
 ## Technical Stack
 
@@ -42,16 +50,14 @@ Repository:
 - Prefer reproducible local setup
 - Validate before delivery
 - Document decisions and operational steps
-- Treat security and auditability as part of the backend design
+- Treat security and auditability as part of backend design
 
 ## Repository Map
 
 | Repository | Purpose |
 |---|---|
 | [fastapi-platform-lab](https://github.com/rafael-backend-lab/fastapi-platform-lab) | Main backend portfolio project with FastAPI, PostgreSQL, Docker, JWT and audit logging |
-| [static-web-lab](https://github.com/rafael-backend-lab/static-web-lab) | Static web laboratory project |
-| [first-html-css-lab](https://github.com/rafael-backend-lab/first-html-css-lab) | Basic HTML and CSS learning project |
 
 ## Profile Status
 
-New professional GitHub profile focused on backend development, platform engineering foundations and practical software delivery.
+Professional GitHub profile focused on backend development, platform engineering foundations and practical software delivery.
