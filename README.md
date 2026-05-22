@@ -73,16 +73,6 @@ Projeto editorial dark sobre literatura, ciência, medicina histórica e horror 
 
 ---
 
-## Working Style
-
-- Estudar o repositório antes de alterar código
-- Mudanças pequenas, revisáveis e incrementais
-- Validar antes de publicar
-- Documentação junto com a entrega
-- Uso de IA como apoio técnico privado, com revisão humana e responsabilidade sobre o resultado
-
----
-
 ## Currently Learning
 
 - Backend engineering e design de APIs
