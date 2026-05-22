@@ -1,14 +1,12 @@
-<!-- PROFILE_TOP_V2 -->
+<!-- PROFILE_TOP_V3 -->
 
 <div align="center">
 
 # Rafael Rodrigues
 
-### Backend Lab Portfolio
+### Backend Developer · API Security · Observability · Platform Engineering
 
-Python • FastAPI • Docker • PostgreSQL • API Security • Observability
-
-Last updated: 2026-05-21 16:05
+Python • FastAPI • Docker • PostgreSQL • Observability • API Security
 
 </div>
 
@@ -20,9 +18,9 @@ Last updated: 2026-05-21 16:05
 
 # Rafael Rodrigues
 
-**Backend Developer** focused on **Python**, **FastAPI**, **Docker**, **PostgreSQL**, **API Security** and **Observability**.
+Backend developer em formação prática, com foco em FastAPI, Docker, PostgreSQL, segurança de APIs, observabilidade e workflows técnicos profissionais.
 
-I build backend projects with emphasis on clean architecture, reproducible local environments, authentication flows, auditability and operational validation.
+Estou construindo projetos reais para consolidar uma base sólida em backend, infraestrutura local e documentação técnica — com ênfase em sistemas pequenos, claros, testáveis e bem documentados.
 
 <p>
   <img src="https://img.shields.io/badge/Python-Backend-blue" />
@@ -33,48 +31,66 @@ I build backend projects with emphasis on clean architecture, reproducible local
   <img src="https://img.shields.io/badge/Observability-Health%20Checks-purple" />
 </p>
 
-## Main Focus
+---
 
-- Backend API development with FastAPI
-- Docker based development environments
-- PostgreSQL and SQLAlchemy
-- JWT authentication and protected routes
-- Audit logging and security minded development
-- Health checks and operational validation
-- Clean documentation for reproducible projects
-
-## Featured Project
+## Featured Projects
 
 ### [FastAPI Platform Lab](https://github.com/rafael-backend-lab/fastapi-platform-lab)
 
-Professional backend laboratory project built with FastAPI, PostgreSQL, Docker, JWT authentication, admin routes, notes management, audit logging and automated health tests.
+Laboratório backend com FastAPI, Docker, PostgreSQL, JWT auth, audit logging, health checks e testes automatizados. Estrutura profissional voltada para estudo de plataforma, segurança de APIs e observabilidade.
+
+- API backend com estrutura limpa e reproduzível
+- Docker + PostgreSQL com ambiente local controlado
+- JWT, rotas protegidas e audit trail
+- Health checks e validação operacional
+
+---
+
+### [Arquivo Morto](https://github.com/rafael-backend-lab/arquivo-morto) · [arquivo-morto.netlify.app](https://arquivo-morto.netlify.app)
+
+Projeto editorial dark sobre literatura, ciência, medicina histórica e horror da reanimação. Interface React + Vite com CSS autoral, identidade visual sombria e curadoria editorial.
+
+- React 19 + Vite, CSS puro sem frameworks de estilo
+- UI/UX editorial dark com tipografia, grids e paleta própria
+- SEO completo: Open Graph, Twitter Card, JSON-LD, sitemap, canonical
+- Netlify — deploy estático com headers customizados
+- Curadoria visual, narrativa e documentação editorial
+
+---
 
 ## Technical Stack
 
-| Area | Tools |
+| Área | Ferramentas |
 |---|---|
 | Backend | Python, FastAPI |
-| Database | PostgreSQL, SQLAlchemy |
+| Banco de dados | PostgreSQL, SQLAlchemy |
 | Containers | Docker, Docker Compose |
-| Security | JWT, protected routes, audit logs |
-| Testing | Pytest, health checks |
-| Workflow | Git, GitHub, VS Code, terminal first workflow |
+| Segurança | JWT, rotas protegidas, audit logs |
+| Testes | Pytest, health checks |
+| Frontend | React, Vite, CSS autoral |
+| Deploy | Netlify, builds estáticos |
+| Workflow | Git, GitHub, terminal-first, VS Code |
 
-## Engineering Principles
+---
 
-- Understand the system before changing it
-- Keep changes small, clear and reversible
-- Prefer reproducible local setup
-- Validate before delivery
-- Document decisions and operational steps
-- Treat security and auditability as part of backend design
+## Working Style
 
-## Public Portfolio
+- Estudar o repositório antes de alterar código
+- Mudanças pequenas, revisáveis e incrementais
+- Validar antes de publicar
+- Documentação junto com a entrega
+- Uso de IA como apoio técnico privado, com revisão humana e responsabilidade sobre o resultado
 
-| Repository | Purpose |
-|---|---|
-| [fastapi-platform-lab](https://github.com/rafael-backend-lab/fastapi-platform-lab) | Main backend portfolio project with FastAPI, PostgreSQL, Docker, JWT and audit logging |
+---
 
-## Profile Status
+## Currently Learning
 
-Professional GitHub profile focused on backend development, platform engineering foundations and practical software delivery.
+- Backend engineering e design de APIs
+- API security e autenticação
+- Observability e validação operacional
+- Platform engineering fundamentals
+- Workflow profissional de contribuição em software
+
+---
+
+Construindo em público, com foco em consistência, clareza e evolução técnica real.
